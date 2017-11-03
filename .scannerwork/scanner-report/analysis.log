@@ -1,0 +1,139 @@
+Environment variables:
+  - =::=::\
+  - =E:=E:\Maven-Web-Profiles
+  - ALLUSERSPROFILE=C:\ProgramData
+  - ANT_HOME=C:\Users\gsr\ant\apache-ant-1.10.1
+  - APPDATA=C:\Users\gsr\AppData\Roaming
+  - APR_ICONV1_PATH=C:\csvn\bin\iconv\
+  - COMPUTERNAME=SURESH
+  - ComSpec=C:\WINDOWS\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - ERROR_CODE=0
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\gsr
+  - JAVA_EXEC="C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\bin\..\jre
+  - LOCALAPPDATA=C:\Users\gsr\AppData\Local
+  - LOGONSERVER=\\SURESH
+  - M2_HOME=C:\Users\gsr\maven\apache-maven-3.5.2
+  - NUMBER_OF_PROCESSORS=4
+  - OS=Windows_NT
+  - OneDrive=C:\Users\gsr\OneDrive
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=2a07
+  - PROJECT_HOME=E:\Maven-Web-Profiles
+  - PROMPT=$P$G
+  - PSModulePath=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+  - PUBLIC=C:\Users\Public
+  - PYTHONHOME=C:\csvn\Python25\
+  - Path=C:\csvn\bin\;C:\csvn\Python25\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_151;C:\Program Files (x86)\Skype\Phone\;C:\Users\gsr\ant\apache-ant-1.10.1\bin;C:\Users\gsr\maven\apache-maven-3.5.2\bin;C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\bin;%JAVA_HOME%\bin;C:\Users\gsr\AppData\Local\Microsoft\WindowsApps;
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SONAR_RUNNER_HOME=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows
+  - SONAR_SCANNER_HOME=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\WINDOWS
+  - TEMP=C:\Users\gsr\AppData\Local\Temp
+  - TMP=C:\Users\gsr\AppData\Local\Temp
+  - USERDOMAIN=SURESH
+  - USERDOMAIN_ROAMINGPROFILE=SURESH
+  - USERNAME=gsr
+  - USERPROFILE=C:\Users\gsr
+  - scriptdir=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\bin
+  - use_embedded_jre=true
+  - windir=C:\WINDOWS
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\bin\..\lib\sonar-scanner-cli-3.0.3.778.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\lib\endorsed
+  - java.ext.dirs=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+  - java.home=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre
+  - java.io.tmpdir=C:\Users\gsr\AppData\Local\Temp\
+  - java.library.path=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\csvn\bin\;C:\csvn\Python25\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_151;C:\Program Files (x86)\Skype\Phone\;C:\Users\gsr\ant\apache-ant-1.10.1\bin;C:\Users\gsr\maven\apache-maven-3.5.2\bin;C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\bin;%JAVA_HOME%\bin;C:\Users\gsr\AppData\Local\Microsoft\WindowsApps;;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=E:\Maven-Web-Profiles
+  - scanner.home=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\lib\resources.jar;C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\lib\rt.jar;C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\lib\sunrsasign.jar;C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\lib\jsse.jar;C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\lib\jce.jar;C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\lib\charsets.jar;C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\lib\jfr.jar;C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\classes
+  - sun.boot.library.path=C:\Program Files (x86)\sonar\sonar-scanner-3.0.3.778-windows\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp437
+  - sun.stdout.encoding=cp437
+  - user.country=US
+  - user.dir=E:\Maven-Web-Profiles
+  - user.home=C:\Users\gsr
+  - user.language=en
+  - user.name=gsr
+  - user.script=
+  - user.timezone=Asia/Calcutta
+  - user.variant=
+SonarQube plugins:
+  - C# 5.10.1.1411 (csharp)
+  - SonarPython 1.8.0.1496 (python)
+  - SonarJava 4.12.0.11033 (java)
+  - Flex 2.3 (flex)
+  - Git 1.2 (scmgit)
+  - SonarXML 1.4.3.1027 (xml)
+  - SonarPHP 2.10.0.2087 (php)
+  - SVN 1.5.0.715 (scmsvn)
+  - SonarJS 3.1.1.5128 (javascript)
+Global properties:
+  - sonar.core.id=AV9r_XR7WOnLBEYzhd1z
+  - sonar.core.startTime=2017-11-03T18:08:48+0530
+  - sonar.onboardingTutorial.showToNewUsers=true
+Settings for module: org.ibm.myibm
+  - sonar.host.url=http://localhost:9000
+  - sonar.login=******
+  - sonar.password=******
+  - sonar.projectBaseDir=E:\Maven-Web-Profiles
+  - sonar.projectKey=org.ibm.myibm
+  - sonar.projectName=Maven-web-project
+  - sonar.projectVersion=1.0
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=src
+  - sonar.verbose=true
+  - sonar.working.directory=E:\Maven-Web-Profiles\.scannerwork
